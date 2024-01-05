@@ -1,11 +1,12 @@
 repo_name: sachajw/pipedream
 report_id: 320fbbccc8ddf49187cd5f5066d26af8
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T10:53:48+00:00'
+timestamp: '2024-01-05T08:39:58+00:00'
 requested_by: dylburger
 provider: github
 branch: master
-detected_tools_count: 120
+detected_tools_count: 122
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -16,7 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
-  detection_source_url: components/salesforce_rest_api/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/salesforce_rest_api/package.json
   detection_source: components/salesforce_rest_api/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/sachajw/pipedream
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/rss/package.json
   detection_source: components/rss/package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-08 19:08:47.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/sachajw/pipedream
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -60,6 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/package.json
   detection_source: docs/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-04-01 21:57:11.000000000 Z
@@ -74,7 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan Pierce
   last_updated_on: 2022-05-27 19:02:46.000000000 Z
@@ -87,7 +92,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/dialpad/package.json
+  detection_source: components/dialpad/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-06-14 20:33:05.000000000 Z
 - name: Vue.js
@@ -100,7 +106,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-05 22:32:57.000000000 Z
@@ -112,6 +118,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/firebase_admin_sdk/package.json
   detection_source: components/firebase_admin_sdk/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -123,7 +130,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/shopify_partner/package.json
+  detection_source: components/shopify_partner/package.json
   last_updated_by: Dylan Pierce
   last_updated_on: 2022-01-11 19:49:20.000000000 Z
 - name: MongoDB
@@ -134,6 +142,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/mongodb/package.json
   detection_source: components/mongodb/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -145,6 +154,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/postgresql/package.json
   detection_source: components/postgresql/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -157,7 +167,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/.eslintrc
+  detection_source: ".eslintrc"
   last_updated_by: Jay Vercellone
   last_updated_on: 2021-05-20 04:28:43.000000000 Z
 - name: Git
@@ -168,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sachajw/pipedream
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -177,7 +189,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/pull-request-checks.yaml"
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/.github/workflows/docs.yaml
+  detection_source: ".github/workflows/docs.yaml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-17 14:01:27.000000000 Z
 - name: Jest
@@ -190,8 +203,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
-  detection_source: platform/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
+  detection_source: package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-05 22:32:57.000000000 Z
 - name: Octokit
@@ -202,7 +215,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
-  detection_source: platform/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/github/package.json
+  detection_source: components/github/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: PyPI
@@ -213,6 +227,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/rss/package.json
   detection_source: components/rss/package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-08 19:08:47.000000000 Z
@@ -224,6 +239,7 @@ tools:
   category: Monitoring
   sub_category: Exception Monitoring
   image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package.json
   detection_source: package.json
   last_updated_by: Moshe Grunwald
   last_updated_on: 2022-07-25 21:31:10.000000000 Z
@@ -237,7 +253,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2020-08-10 04:49:21.000000000 Z
@@ -249,6 +265,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/yarn.lock
   last_updated_by: Dylan J. Sather
   last_updated_on: 2020-08-10 04:49:21.000000000 Z
@@ -260,6 +277,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/platform/package.json
   detection_source: platform/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-07-06 16:34:41.000000000 Z
@@ -272,6 +290,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-01-05 15:49:37.000000000 Z
@@ -284,6 +303,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/digital_ocean/package.json
   detection_source: components/digital_ocean/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -296,7 +316,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: components/algolia/package.json
   last_updated_by: Lucas Caresia
   last_updated_on: 2022-06-14 17:35:18.000000000 Z
@@ -309,6 +329,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/cloudinary/package.json
   detection_source: components/cloudinary/package.json
   last_updated_by: michelle0927
   last_updated_on: 2023-04-24 17:25:21.000000000 Z
@@ -321,7 +342,8 @@ tools:
   category: Analytics
   sub_category: Analytics Integrator
   image_url: https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg
-  detection_source: components/notion/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/google_drive/package.json
+  detection_source: components/google_drive/package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-08 19:08:47.000000000 Z
 - name: Stripe
@@ -332,6 +354,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/stripe/package.json
   detection_source: components/stripe/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -343,6 +366,7 @@ tools:
   category: Communications
   sub_category: Voice and SMS
   image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twilio/package.json
   detection_source: components/twilio/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -355,6 +379,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/sachajw/pipedream
   detection_source: Repo Metadata
 - name: Lodash
   description: A JavaScript utility library
@@ -365,8 +390,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: components/ghost_org_admin_api/package-lock.json
-  detection_source: components/zoom_admin/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/ghost_org_admin_api/package-lock.json
+  detection_source: components/airtable/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: Moment.js
@@ -380,8 +405,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: components/airtable/package.json
-  detection_source: components/visitor_queue/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/airtable/package.json
+  detection_source: components/airtable/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-03-14 20:58:16.000000000 Z
 - name: Shell
@@ -393,6 +418,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/sachajw/pipedream
   detection_source: Repo Metadata
 - name: Showdown
   description: JavaScript port of Markdown
@@ -404,7 +430,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: components/formatting/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/formatting/package.json
   detection_source: components/formatting/package.json
   last_updated_by: Guilherme Falcão
   last_updated_on: 2023-02-10 22:11:32.000000000 Z
@@ -418,7 +444,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/8863/paeckCWC.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan Pierce
   last_updated_on: 2022-05-27 19:02:46.000000000 Z
@@ -432,8 +458,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: components/amplenote/package-lock.json
-  detection_source: platform/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/amplenote/package-lock.json
+  detection_source: components/asana/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: date-fns
@@ -445,6 +471,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/thanks_io/package.json
   detection_source: components/thanks_io/package.json
   last_updated_by: michelle0927
   last_updated_on: 2022-08-12 14:38:54.000000000 Z
@@ -453,7 +480,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
-  detection_source: platform/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package.json
+  detection_source: package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-03-01 06:46:03.000000000 Z
 - name: lint-staged
@@ -461,6 +489,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-07-06 16:34:41.000000000 Z
@@ -474,7 +503,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17753/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
-  detection_source_url: components/google_cloud/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/google_cloud/package.json
   detection_source: components/google_cloud/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -488,7 +517,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Moshe Grunwald
   last_updated_on: 2022-07-25 21:31:10.000000000 Z
@@ -502,7 +531,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-03-09 04:26:04.000000000 Z
@@ -516,7 +545,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17516/default_911633508f32a5d5016c37ab38144cd661ceb682.png
-  detection_source_url: helpers/package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/helpers/package-lock.json
   detection_source: helpers/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-06-01 05:07:48.000000000 Z
@@ -530,8 +559,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: docs/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/dialpad/package.json
   last_updated_by: bush4u
   last_updated_on: 2022-06-28 17:02:40.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
@@ -544,7 +573,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-03-09 04:26:04.000000000 Z
@@ -558,7 +587,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-03-09 04:26:04.000000000 Z
@@ -573,7 +602,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17074/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: components/algolia/package.json
   last_updated_by: Lucas Caresia
   last_updated_on: 2022-06-14 17:35:18.000000000 Z
@@ -587,8 +616,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16387/default_000ae7ee50b56e0ecdb07d3662d4b3fa7f4cbdcc.png
-  detection_source_url: components/twitch/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twitch/package-lock.json
+  detection_source: components/brex_staging/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: crypto-js
@@ -601,8 +630,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: components/fullstory/package.json
-  detection_source: components/trengo/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/fullstory/package.json
+  detection_source: components/fullstory/package.json
   last_updated_by: feyzullah
   last_updated_on: 2022-10-03 17:31:25.000000000 Z
   vulnerabilities:
@@ -623,7 +652,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16480/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source_url: ".github/actions/git-diff-on-components/package-lock.json"
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/.github/actions/git-diff-on-components/package-lock.json
   detection_source: components/zoho_creator/package.json
   last_updated_by: Lucas Caresia
   last_updated_on: 2022-11-14 16:41:59.000000000 Z
@@ -638,8 +667,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source_url: components/demio/package.json
-  detection_source: components/timecamp/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/demio/package.json
+  detection_source: components/demio/package.json
   last_updated_by: Lucas Caresia
   last_updated_on: 2022-06-22 20:04:24.000000000 Z
 - name: dtslint
@@ -652,8 +681,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17130/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
-  detection_source_url: types/package-lock.json
-  detection_source: types/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/types/package-lock.json
+  detection_source: components/postgresql/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: eslint-plugin-jest
@@ -666,7 +695,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-07-06 16:34:41.000000000 Z
@@ -680,7 +709,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan Pierce
   last_updated_on: 2022-05-27 19:02:46.000000000 Z
@@ -694,7 +723,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17151/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
-  detection_source_url: components/firebase_admin_sdk/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/firebase_admin_sdk/package.json
   detection_source: components/firebase_admin_sdk/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -708,8 +737,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: components/twitch/package-lock.json
-  detection_source: components/transistor_fm/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twitch/package-lock.json
+  detection_source: components/akeneo/package.json
   last_updated_by: feyzullah
   last_updated_on: 2023-02-01 19:22:56.000000000 Z
 - name: fp-ts
@@ -722,7 +751,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17989/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
-  detection_source_url: components/amplenote/package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/amplenote/package-lock.json
   detection_source: platform/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-07-06 16:34:41.000000000 Z
@@ -737,7 +766,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: components/smugmug/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/smugmug/package.json
   detection_source: components/smugmug/package.json
   last_updated_by: js07
   last_updated_on: 2022-09-14 23:57:46.000000000 Z
@@ -751,8 +780,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17925/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
-  detection_source_url: components/firebase_admin_sdk/package.json
-  detection_source: components/gmail/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/firebase_admin_sdk/package.json
+  detection_source: components/firebase_admin_sdk/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: googleapis
@@ -765,8 +794,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
-  detection_source_url: components/gmail/package.json
-  detection_source: components/google_workspace/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/gmail/package.json
+  detection_source: components/gmail/package.json
   last_updated_by: vellames
   last_updated_on: 2023-01-13 13:26:33.000000000 Z
 - name: got
@@ -779,8 +808,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: docs/yarn.lock
-  detection_source: components/youtube_data_api_custom_app/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/cloudflare_api_key/package.json
   last_updated_by: michelle0927
   last_updated_on: 2022-10-11 17:10:19.000000000 Z
   vulnerabilities:
@@ -800,8 +829,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18362/default_c13193d39b06aca7675079cf8440e70e9150db5e.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
+  detection_source: components/pipefy/package.json
   last_updated_by: michelle0927
   last_updated_on: 2022-09-30 14:28:59.000000000 Z
 - name: handlebars
@@ -815,7 +844,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: components/salesforce_rest_api/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/salesforce_rest_api/package.json
   detection_source: components/salesforce_rest_api/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -829,7 +858,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: components/stack_exchange/package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-08 19:08:47.000000000 Z
@@ -843,10 +872,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18417/default_866295ec9b57ad977c956d0fed2e144aaca6c4a0.png
-  detection_source_url: components/gmail/package.json
-  detection_source: components/gmail_custom_oauth/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/gmail/package.json
+  detection_source: components/gmail/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-08-29 17:10:31.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Dylan J. Sather
+  last_updated_on: 2022-03-01 06:46:03.000000000 Z
 - name: inflection
   description: A port of inflection-js to node.js module
   package_url: https://www.npmjs.com/inflection
@@ -857,7 +900,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17018/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
-  detection_source_url: components/activecampaign/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/activecampaign/package.json
   detection_source: components/activecampaign/package.json
   last_updated_by: Jorge Cortes
   last_updated_on: 2022-02-17 18:25:50.000000000 Z
@@ -871,7 +914,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18559/default_b194e7abb8eea1cda9454a0cdbfe61a67834d183.png
-  detection_source_url: components/amplenote/package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/amplenote/package-lock.json
   detection_source: platform/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-08-12 00:10:39.000000000 Z
@@ -885,8 +928,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16185/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
-  detection_source_url: components/dropbox/package.json
-  detection_source: components/microsoft_teams/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/dropbox/package.json
+  detection_source: components/dropbox/package.json
   last_updated_by: michelle0927
   last_updated_on: 2023-05-08 14:13:29.000000000 Z
 - name: js-base64
@@ -899,8 +942,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16984/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
-  detection_source_url: components/microsoft_outlook/package.json
-  detection_source: components/pinterest/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/microsoft_outlook/package.json
+  detection_source: components/microsoft_outlook/package.json
   last_updated_by: feyzullah
   last_updated_on: 2022-05-12 01:37:40.000000000 Z
 - name: jsonwebtoken
@@ -913,7 +956,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: components/ghost_org_admin_api/package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/ghost_org_admin_api/package-lock.json
   detection_source: components/ghost_org_admin_api/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-01-02 16:50:33.000000000 Z
@@ -927,10 +970,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17908/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
-  detection_source_url: components/netlify/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/netlify/package.json
   detection_source: components/netlify/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 12.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Andrew Chuang
+  last_updated_on: 2022-07-06 16:34:41.000000000 Z
 - name: lodash-es
   description: Lodash exported as ES modules
   package_url: https://www.npmjs.com/lodash-es
@@ -941,8 +998,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: helpers/package-lock.json
-  detection_source: helpers/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/helpers/package-lock.json
+  detection_source: components/dear/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-06-07 13:24:11.000000000 Z
 - name: lodash.difference
@@ -955,7 +1012,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18369/default_0af6490274b5a036f3c8f06302acc539142987d3.png
-  detection_source_url: ".github/actions/git-diff-on-components/package-lock.json"
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/.github/actions/git-diff-on-components/package-lock.json
   detection_source: ".github/actions/git-diff-on-components/package.json"
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-11-17 16:25:53.000000000 Z
@@ -969,8 +1026,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16377/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
-  detection_source_url: components/discourse/package.json
-  detection_source: components/zoho_creator/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/discourse/package.json
+  detection_source: components/discourse/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-03-14 20:58:16.000000000 Z
 - name: lodash.isempty
@@ -983,7 +1040,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17346/default_2f1b682e838d69744876821bf705f0b2974318b1.png
-  detection_source_url: components/airtable/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/airtable/package.json
   detection_source: components/airtable/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -997,7 +1054,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17357/default_2613a99266d0023b6108b16e4d6613c439a64039.png
-  detection_source_url: components/monday/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/monday/package.json
   detection_source: components/monday/package.json
   last_updated_by: Jorge Cortes
   last_updated_on: 2022-03-15 19:56:45.000000000 Z
@@ -1011,8 +1068,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16970/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
-  detection_source_url: components/stripe/package.json
-  detection_source: components/woocommerce/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/stripe/package.json
+  detection_source: components/stripe/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: lodash.sortby
@@ -1025,8 +1082,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17688/default_9693d58c90f5c726ee648423687212d2a94266da.png
-  detection_source_url: components/discourse/package.json
-  detection_source: components/zoho_crm/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/discourse/package.json
+  detection_source: components/discourse/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-03-14 20:58:16.000000000 Z
 - name: luxon
@@ -1039,7 +1096,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17375/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: components/typeform/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/typeform/package.json
   detection_source: components/typeform/package.json
   last_updated_by: Lucas Caresia
   last_updated_on: 2022-10-05 19:30:43.000000000 Z
@@ -1060,7 +1117,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16342/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
-  detection_source_url: components/mailbluster/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/mailbluster/package.json
   detection_source: components/mailbluster/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-02-07 17:33:13.000000000 Z
@@ -1074,8 +1131,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: docs/yarn.lock
-  detection_source: components/trello/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/gmail/package.json
   last_updated_by: michelle0927
   last_updated_on: 2023-01-11 20:28:24.000000000 Z
 - name: mime-db
@@ -1088,8 +1145,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18701/default_803d9095ae52cd39a90bd905df9c2e4583f75904.png
-  detection_source_url: components/twitch/package-lock.json
-  detection_source: components/notion/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twitch/package-lock.json
+  detection_source: components/google_drive/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: mime-types
@@ -1102,8 +1159,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16448/default_89ba91277e3434b03295bb11d22736632df1d04f.png
-  detection_source_url: components/twitch/package-lock.json
-  detection_source: components/pinterest/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twitch/package-lock.json
+  detection_source: components/microsoft_outlook/package.json
   last_updated_by: feyzullah
   last_updated_on: 2022-05-12 01:37:40.000000000 Z
 - name: moment
@@ -1116,8 +1173,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: components/airtable/package.json
-  detection_source: components/visitor_queue/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/airtable/package.json
+  detection_source: components/airtable/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-03-14 20:58:16.000000000 Z
   vulnerabilities:
@@ -1143,7 +1200,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
-  detection_source_url: components/google_calendar/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/google_calendar/package.json
   detection_source: components/google_calendar/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -1170,7 +1227,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: ".github/actions/git-diff-on-components/package-lock.json"
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/.github/actions/git-diff-on-components/package-lock.json
   detection_source: components/discourse/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-03-14 20:58:16.000000000 Z
@@ -1184,8 +1241,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: components/smiirl/package-lock.json
-  detection_source: components/ongage/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/smiirl/package-lock.json
+  detection_source: components/hugging_face/package.json
   last_updated_by: Jorge Cortes
   last_updated_on: 2023-03-29 20:17:47.000000000 Z
 - name: node-forge
@@ -1198,7 +1255,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17082/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: components/wisepops/package.json
   last_updated_by: Luan Cazarine
   last_updated_on: 2022-09-29 22:52:52.000000000 Z
@@ -1249,8 +1306,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16278/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: components/gmail/package.json
-  detection_source: components/gmail_custom_oauth/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/gmail/package.json
+  detection_source: components/gmail/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-08-29 17:10:31.000000000 Z
 - name: object-hash
@@ -1263,8 +1320,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16940/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: docs/yarn.lock
-  detection_source: components/rss/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/http/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: path
@@ -1277,7 +1334,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: components/box/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/box/package.json
   detection_source: components/box/package.json
   last_updated_by: feyzullah
   last_updated_on: 2022-07-29 16:55:45.000000000 Z
@@ -1291,7 +1348,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: components/postgresql/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/postgresql/package.json
   detection_source: components/postgresql/package.json
   last_updated_by: michelle0927
   last_updated_on: 2022-04-19 16:04:40.000000000 Z
@@ -1305,7 +1362,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16498/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: components/formatting/package.json
   last_updated_by: Guilherme Falcão
   last_updated_on: 2023-02-10 22:11:32.000000000 Z
@@ -1319,7 +1376,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: ".github/actions/git-diff-on-components/package-lock.json"
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/.github/actions/git-diff-on-components/package-lock.json
   detection_source: docs/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-04-01 21:57:11.000000000 Z
@@ -1340,8 +1397,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: components/twitch/package-lock.json
-  detection_source: components/uploadcare/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twitch/package-lock.json
+  detection_source: components/expensify/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-07-11 19:33:06.000000000 Z
 - name: query-string
@@ -1354,8 +1411,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: docs/yarn.lock
-  detection_source: components/woocommerce/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/jotform/package.json
   last_updated_by: michelle0927
   last_updated_on: 2023-05-02 14:33:03.000000000 Z
 - name: querystring
@@ -1368,8 +1425,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16418/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: components/amplenote/package-lock.json
-  detection_source: platform/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/amplenote/package-lock.json
+  detection_source: components/typeform/package.json
   last_updated_by: Lucas Caresia
   last_updated_on: 2022-10-05 19:30:43.000000000 Z
 - name: sass
@@ -1382,7 +1439,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan Pierce
   last_updated_on: 2022-01-12 19:04:12.000000000 Z
@@ -1396,7 +1453,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan Pierce
   last_updated_on: 2022-01-12 19:04:12.000000000 Z
@@ -1410,7 +1467,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
-  detection_source_url: components/sentry/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/sentry/package.json
   detection_source: components/sentry/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
@@ -1424,8 +1481,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18008/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
-  detection_source_url: components/cloudflare_api_key/package.json
-  detection_source: components/imap/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/cloudflare_api_key/package.json
+  detection_source: components/cloudflare_api_key/package.json
   last_updated_by: michelle0927
   last_updated_on: 2022-10-11 17:10:19.000000000 Z
 - name: string-to-stream
@@ -1438,7 +1495,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18649/default_316ace623c991d98ee7b6a2ec75e30e84be87047.png
-  detection_source_url: components/rss/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/rss/package.json
   detection_source: components/rss/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2023-03-14 20:58:16.000000000 Z
@@ -1452,7 +1509,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: docs/package.json
   last_updated_by: Dylan J. Sather
   last_updated_on: 2022-04-01 21:57:11.000000000 Z
@@ -1467,7 +1524,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-07-06 16:34:41.000000000 Z
@@ -1481,7 +1538,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18024/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: js07
   last_updated_on: 2022-06-17 22:26:19.000000000 Z
@@ -1495,8 +1552,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
-  detection_source_url: docs/yarn.lock
-  detection_source: components/patreon/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/calendly_v2/package.json
   last_updated_by: Michael Lim
   last_updated_on: 2023-05-05 16:25:18.000000000 Z
 - name: util
@@ -1509,8 +1566,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source_url: docs/yarn.lock
-  detection_source: components/youtube_data_api/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
+  detection_source: components/cloudflare_api_key/package.json
   last_updated_by: michelle0927
   last_updated_on: 2022-10-11 17:10:19.000000000 Z
 - name: uuid
@@ -1523,8 +1580,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: components/twitch/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/twitch/package-lock.json
+  detection_source: components/amqp/package.json
   last_updated_by: Jorge Cortes
   last_updated_on: 2022-06-06 15:02:00.000000000 Z
 - name: validate.js
@@ -1537,8 +1594,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17770/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
-  detection_source_url: components/sendgrid/package.json
-  detection_source: components/shortcut/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/sendgrid/package.json
+  detection_source: components/sendgrid/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-08 16:13:31.000000000 Z
 - name: vue
@@ -1551,7 +1608,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: docs/yarn.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/docs/yarn.lock
   detection_source: package.json
   last_updated_by: Giao Phan
   last_updated_on: 2021-01-05 22:32:57.000000000 Z
@@ -1565,13 +1622,13 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18393/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
-  detection_source_url: components/helper_functions/package.json
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/components/helper_functions/package.json
   detection_source: components/helper_functions/package.json
   last_updated_by: Andrew Chuang
   last_updated_on: 2022-09-28 00:25:14.000000000 Z
 - name: bs4
   description: Dummy package for Beautiful Soup
-  package_url: https://pypi.org/bs4
+  package_url: https://pypi.org/project/bs4
   version: 0.0.1
   license: MIT
   open_source: true
@@ -1579,13 +1636,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19906/default_2aeed05332f0410b54817405c7e8e202a7e763cf.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: matplotlib
   description: Python plotting package
-  package_url: https://pypi.org/matplotlib
+  package_url: https://pypi.org/project/matplotlib
   version: 3.7.1
   license: Python-2.0
   open_source: true
@@ -1593,13 +1650,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19853/default_3fbfa1d88b4408e903227ac391490e8efb8dea58.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: mistune
   description: The fastest markdown parser in pure Python
-  package_url: https://pypi.org/mistune
+  package_url: https://pypi.org/project/mistune
   version: 2.0.5
   license: BSD-3-Clause
   open_source: true
@@ -1607,13 +1664,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20077/default_1b6ee2407cdedc6ad8878ee707164428880e399a.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: pathlib
   description: Object-oriented filesystem paths
-  package_url: https://pypi.org/pathlib
+  package_url: https://pypi.org/project/pathlib
   version: 1.0.1
   license: MIT
   open_source: true
@@ -1621,13 +1678,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20231/default_cb6acd0ec3f2884b905de7c1ca3a23418f37ebb3.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: plotly
   description: An open-source, interactive graphing library for Python
-  package_url: https://pypi.org/plotly
+  package_url: https://pypi.org/project/plotly
   version: 5.14.1
   license: MIT
   open_source: true
@@ -1635,13 +1692,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20062/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: python-dotenv
   description: Add .env support to your django/flask apps in development and deployments
-  package_url: https://pypi.org/python-dotenv
+  package_url: https://pypi.org/project/python-dotenv
   version: 1.0.0
   license: BSD-3-Clause
   open_source: true
@@ -1649,13 +1706,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: scikit-learn
   description: A set of python modules for machine learning and data mining
-  package_url: https://pypi.org/scikit-learn
+  package_url: https://pypi.org/project/scikit-learn
   version: 1.2.2
   license: BSD-3-Clause
   open_source: true
@@ -1663,13 +1720,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: snowflake-connector-python
   description: Snowflake Connector for Python
-  package_url: https://pypi.org/snowflake-connector-python
+  package_url: https://pypi.org/project/snowflake-connector-python
   version: 3.0.2
   license: Apache-2.0
   open_source: true
@@ -1677,13 +1734,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20735/default_a1230263c1022e7a5f1ab77d48a7703cf2c2878e.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
 - name: torch
   description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
-  package_url: https://pypi.org/torch
+  package_url: https://pypi.org/project/torch
   version: 2.0.0
   license: BSD-1-Clause
   open_source: true
@@ -1691,7 +1748,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20038/default_a7a70921d2d3189665c78015850dc968f41705a1.png
-  detection_source_url: blog/mario/poetry.lock
+  detection_source_url: https://github.com/sachajw/pipedream/blob/master/blog/mario/poetry.lock
   detection_source: blog/mario/pyproject.toml
   last_updated_by: Dylan J. Sather
   last_updated_on: 2023-05-22 20:06:02.000000000 Z
