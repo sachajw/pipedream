@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/pipedream is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Stripe](https://stripe.com) – Payment Services
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
@@ -38,11 +39,13 @@ sachajw/pipedream is built on the following main stack:
 - [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/pipedream is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
@@ -79,14 +82,15 @@ sachajw/pipedream is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png' alt='Algolia'/> [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/pipedream](https://github.com/sachajw/pipedream)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|120<br/>Tools used|11/16/23 <br/>Report generated|
+|122<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -442,9 +446,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (81)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (83)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (72)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (74)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -474,12 +478,14 @@ Full tech stack [here](/techstack.md)
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.7|09/08/22|Andrew Chuang |MIT|N/A|
 |[he](https://www.npmjs.com/he)|v1.2.0|01/08/21|Giao Phan |MIT|N/A|
 |[html-to-text](https://www.npmjs.com/html-to-text)|v8.2.1|08/29/22|Andrew Chuang |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|03/01/22|Dylan J. Sather |MIT|N/A|
 |[inflection](https://www.npmjs.com/inflection)|v1.13.2|02/17/22|Jorge Cortes |MIT|N/A|
 |[io-ts](https://www.npmjs.com/io-ts)|v2.2.16|08/12/22|Andrew Chuang |MIT|N/A|
 |[isomorphic-fetch](https://www.npmjs.com/isomorphic-fetch)|v3.0.0|05/08/23|michelle0927 |MIT|N/A|
 |[js-base64](https://www.npmjs.com/js-base64)|v3.7.2|05/12/22|feyzullah |BSD-3-Clause|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.0|01/02/23|dependabot[bot] |MIT|N/A|
 |[jwt-simple](https://www.npmjs.com/jwt-simple)|v0.5.6|09/08/22|Andrew Chuang |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.5.0|07/06/22|Andrew Chuang |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|06/07/22|Andrew Chuang |MIT|N/A|
 |[lodash.difference](https://www.npmjs.com/lodash.difference)|v4.5.0|11/17/22|Andrew Chuang |MIT|N/A|
 |[lodash.get](https://www.npmjs.com/lodash.get)|v4.4.2|03/14/23|Andrew Chuang |MIT|N/A|
@@ -526,15 +532,15 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[bs4](https://pypi.org/bs4)|v0.0.1|05/22/23|Dylan J. Sather |MIT|N/A|
-|[matplotlib](https://pypi.org/matplotlib)|v3.7.1|05/22/23|Dylan J. Sather |Python-2.0|N/A|
-|[mistune](https://pypi.org/mistune)|v2.0.5|05/22/23|Dylan J. Sather |BSD-3-Clause|N/A|
-|[pathlib](https://pypi.org/pathlib)|v1.0.1|05/22/23|Dylan J. Sather |MIT|N/A|
-|[plotly](https://pypi.org/plotly)|v5.14.1|05/22/23|Dylan J. Sather |MIT|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|v1.0.0|05/22/23|Dylan J. Sather |BSD-3-Clause|N/A|
-|[scikit-learn](https://pypi.org/scikit-learn)|v1.2.2|05/22/23|Dylan J. Sather |BSD-3-Clause|N/A|
-|[snowflake-connector-python](https://pypi.org/snowflake-connector-python)|v3.0.2|05/22/23|Dylan J. Sather |Apache-2.0|N/A|
-|[torch](https://pypi.org/torch)|v2.0.0|05/22/23|Dylan J. Sather |BSD-1-Clause|N/A|
+|[bs4](https://pypi.org/project/bs4)|v0.0.1|05/22/23|Dylan J. Sather |MIT|N/A|
+|[matplotlib](https://pypi.org/project/matplotlib)|v3.7.1|05/22/23|Dylan J. Sather |Python-2.0|N/A|
+|[mistune](https://pypi.org/project/mistune)|v2.0.5|05/22/23|Dylan J. Sather |BSD-3-Clause|N/A|
+|[pathlib](https://pypi.org/project/pathlib)|v1.0.1|05/22/23|Dylan J. Sather |MIT|N/A|
+|[plotly](https://pypi.org/project/plotly)|v5.14.1|05/22/23|Dylan J. Sather |MIT|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.0|05/22/23|Dylan J. Sather |BSD-3-Clause|N/A|
+|[scikit-learn](https://pypi.org/project/scikit-learn)|v1.2.2|05/22/23|Dylan J. Sather |BSD-3-Clause|N/A|
+|[snowflake-connector-python](https://pypi.org/project/snowflake-connector-python)|v3.0.2|05/22/23|Dylan J. Sather |Apache-2.0|N/A|
+|[torch](https://pypi.org/project/torch)|v2.0.0|05/22/23|Dylan J. Sather |BSD-1-Clause|N/A|
 
 <br/>
 <div align='center'>
