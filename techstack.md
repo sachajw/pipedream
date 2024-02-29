@@ -3,40 +3,40 @@
 ## Tech Stack
 sachajw/pipedream is built on the following main stack:
 
+- [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- [GraphQL](http://graphql.org/) – Query Languages
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [pnpm](https://pnpm.js.org/) – Package Managers
+- [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
+- [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
+- [Cloudinary](http://cloudinary.com/) – Image Processing and Management
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Stripe](https://stripe.com) – Payment Services
-- [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [Twilio](http://www.twilio.com) – Voice and SMS
-- [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
-- [Cloudinary](http://cloudinary.com/) – Image Processing and Management
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [ESLint](http://eslint.org/) – Code Review
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [GraphQL](http://graphql.org/) – Query Languages
-- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
 - [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
-- [pnpm](https://pnpm.js.org/) – Package Managers
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -46,40 +46,40 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 sachajw/pipedream is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg' alt='pnpm'/> [pnpm](https://pnpm.js.org/) – Package Managers
+- <img width='25' height='25' src='https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg' alt='DigitalOcean'/> [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png' alt='Algolia'/> [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png' alt='Cloudinary'/> [Cloudinary](http://cloudinary.com/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
-- <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg' alt='DigitalOcean'/> [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png' alt='Cloudinary'/> [Cloudinary](http://cloudinary.com/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Showdown'/> [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Showdown'/> [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/8863/paeckCWC.png' alt='VuePress'/> [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg' alt='pnpm'/> [pnpm](https://pnpm.js.org/) – Package Managers
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png' alt='Algolia'/> [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -90,7 +90,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/pipedream](https://github.com/sachajw/pipedream)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|122<br/>Tools used|01/05/24 <br/>Report generated|
+|122<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -491,7 +491,7 @@ Full tech stack [here](/techstack.md)
 |[lodash.get](https://www.npmjs.com/lodash.get)|v4.4.2|03/14/23|Andrew Chuang |MIT|N/A|
 |[lodash.isempty](https://www.npmjs.com/lodash.isempty)|v4.4.0|09/08/22|Andrew Chuang |MIT|N/A|
 |[lodash.map](https://www.npmjs.com/lodash.map)|v4.6.0|03/15/22|Jorge Cortes |MIT|N/A|
-|[lodash.pick](https://www.npmjs.com/lodash.pick)|v4.4.0|09/08/22|Andrew Chuang |MIT|N/A|
+|[lodash.pick](https://www.npmjs.com/lodash.pick)|v4.4.0|09/08/22|Andrew Chuang |MIT|[CVE-2020-8203](https://github.com/advisories/GHSA-p6mc-m468-83gw) (High)|
 |[lodash.sortby](https://www.npmjs.com/lodash.sortby)|v4.7.0|03/14/23|Andrew Chuang |MIT|N/A|
 |[luxon](https://www.npmjs.com/luxon)|v3.0.4|10/05/22|Lucas Caresia |MIT|[CVE-2023-22467](https://github.com/advisories/GHSA-3xq5-wjfh-ppjc) (High)|
 |[md5](https://www.npmjs.com/md5)|v2.3.0|02/07/23|Dylan J. Sather |BSD-3-Clause|N/A|
@@ -503,7 +503,7 @@ Full tech stack [here](/techstack.md)
 |[nanoid](https://www.npmjs.com/nanoid)|v3.3.4|03/14/23|Andrew Chuang |MIT|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.7|03/29/23|Jorge Cortes |MIT|N/A|
 |[node-forge](https://www.npmjs.com/node-forge)|v0.10.0|09/29/22|Luan Cazarine |BSD-3-Clause,GPL-2.0|[CVE-2022-24772](https://github.com/advisories/GHSA-x4jg-mjrx-434g) (High)<br/>[CVE-2022-24771](https://github.com/advisories/GHSA-cfm4-qjh2-4765) (High)<br/>[CVE-2022-0122](https://github.com/advisories/GHSA-8fr3-hfg3-gpgp) (Moderate)<br/>[CVE-2022-24773](https://github.com/advisories/GHSA-2r2c-g63r-vccr) (Moderate)<br/>[](https://github.com/advisories/GHSA-gf8q-jrpm-jvxq) (Low)<br/>[](https://github.com/advisories/GHSA-5rrq-pxf6-6jx5) (Low)|
-|[nodemailer](https://www.npmjs.com/nodemailer)|v6.7.8|08/29/22|Andrew Chuang |MIT|N/A|
+|[nodemailer](https://www.npmjs.com/nodemailer)|v6.7.8|08/29/22|Andrew Chuang |MIT|[](https://github.com/advisories/GHSA-9h6g-pr28-7cqp) (Moderate)|
 |[object-hash](https://www.npmjs.com/object-hash)|v2.2.0|09/08/22|Andrew Chuang |MIT|N/A|
 |[path](https://www.npmjs.com/path)|v0.12.7|07/29/22|feyzullah |MIT|N/A|
 |[pg](https://www.npmjs.com/pg)|v8.7.1|04/19/22|michelle0927 |MIT|N/A|
